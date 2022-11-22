@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+</p>
+
+
 <!--
 **giovannilopez9808/giovannilopez9808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
